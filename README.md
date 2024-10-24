@@ -1,2 +1,2 @@
-Using Clustering Algorithms like K-Means to segment customers based on their purchasing behaviours.
+Using Clustering Algorithms like K-Means to segment customers based on their purchasing behaviours. \n
 Dataset link: https://www.kaggle.com/datasets/datascientistanna/customers-dataset
